@@ -3,7 +3,7 @@
 
 <hr>
 
-Hey! I'm akram. I'm a 20 year old i am currently studying full stack web development.
+Hey! I'm Akram, a 20-year-old passionate about full-stack web development, currently i still studying.
 
 - ✨ Main languages: **HTML5 CSS JAVASCRIPT SQL PHP** <a name="strong-languages"></a>
 
