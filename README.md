@@ -1,5 +1,5 @@
 <a name="profile"></a>
-<p align="center"><img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/about-me-design-template-f6c5a2329286c8a37d49dcf2f0a6329d_screen.jpg" width="100%" height="auto"></p>
+<p align="center"><img src="https://i.imgur.com/F79l3od.png" width="100%" height="auto"></p>
 
 Hey! I'm akram. I'm a 20 year old i am currently studying full stack web development.
 
