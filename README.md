@@ -1,6 +1,8 @@
 <a name="profile"></a>
 <p align="center"><img src="https://i.imgur.com/F79l3od.png" width="100%" height="auto"></p>
 
+<hr>
+
 Hey! I'm akram. I'm a 20 year old i am currently studying full stack web development.
 
 - ✨ Main languages: **HTML5 CSS JAVASCRIPT SQL PHP** <a name="strong-languages"></a>
