@@ -8,7 +8,7 @@ Hey! I'm Akram, a 20-year-old passionate about full-stack web development, curre
 - ✨ Main languages: **HTML5 CSS JAVASCRIPT SQL PHP** <a name="strong-languages"></a>
 
 
-- 🌱 I’m currently learning **HTML5 CSS JAVASCRIPT SQL PHP**<a name="learning"></a>
+- 🌱 I’m currently learning: **HTML5 CSS JAVASCRIPT SQL PHP**<a name="learning"></a>
 
 
 - 📫 How to reach me: <a name="contact"></a>
