@@ -33,7 +33,7 @@ Hey! I'm Akram, a 20-year-old passionate about full-stack web development, curre
 </p>
 
 <hr>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akr1m-dev&show_icons=true&locale=en" alt="akr1m-dev" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akr1m-dev&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&bg_color=00000000&custom_title=akr1m%27s%20Stats%20%E2%97%95%E2%80%BF%E2%97%95"></img></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akr1m-dev&label=Profile%20views&color=0e75b6&style=flat" alt="akr1m-dev" /> </p>
 
