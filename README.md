@@ -5,7 +5,7 @@
 
 Hey! I'm Akram, a 20-year-old passionate about full-stack web development, currently i still studying.
 
-- ✨ Main languages: **HTML5, CSS, JAVASCRIPT, React.js, SQL** <a name="strong-languages"></a>
+- ✨ languages: **HTML5, CSS, JAVASCRIPT, React.js, SQL** <a name="strong-languages"></a>
 
 
 - 🌱 I’m currently learning: **PHP, Laravel**<a name="learning"></a>
