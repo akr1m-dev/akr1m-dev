@@ -10,6 +10,10 @@ Hey! I'm Akram, passionate about full-stack web development, currently i still s
 
 - 🌱 I’m currently learning: **PHP, Laravel**<a name="learning"></a>
 
+- 🎓 Certificates: 
+   - <p>📜 Higher Technician Certificate (BTS) in Web and Mobile Development. <p>
+   - <p>📜 Initial Vocational Qualification in Computer Basics - Introduction to IT: Word, Excel, PowerPoint. <p>
+
 
 - 📫 How to reach me: <a name="contact"></a>
    - Discord: **`akram.25`**
